@@ -1,3 +1,10 @@
+
+## Note:
+
+Due to a change in the API of asciinema, this tool no longer works correctly.
+
+See also: https://asciinema.org/docs/embedding
+
 ## asciinema2gif
 
 Generate animated GIFs from [asciinema terminal recordings].
